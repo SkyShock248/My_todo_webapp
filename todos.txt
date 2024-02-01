@@ -1,0 +1,10 @@
+make lunch
+show
+test
+watch movie
+tomorrow
+me world
+Hello world
+sleep
+last call
+why
